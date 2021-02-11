@@ -36,18 +36,3 @@ The main advantage of random forest is it eliminates *Overfitting problem* obser
 **The Codes regarding  Random Forest for *classification of company data with company dataset, Classification of Risky with Fraud dataset, classification if pima indians diabetes with pima indians diabetes dataset and classification of species with iris dataset* are present in this Repository in detail.**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dataset: pima_indians_diabetes.data,company_data,fraud_check,iris
